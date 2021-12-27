@@ -1,0 +1,6 @@
+0.0.0.0 https://mediavisor.doubleclick.net
+0.0.0.0 https://analyticsengine.s3.amazonaws.com
+0.0.0.0 https://affiliationjs.s3.amazonaws.com
+0.0.0.0 https://browser.sentry-cdn.com
+0.0.0.0 https://app.getsentry.com
+0.0.0.0 https://widgets.pinterest.com
